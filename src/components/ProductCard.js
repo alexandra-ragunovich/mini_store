@@ -47,7 +47,7 @@ const ProductCard = ({ product, onLikeToggle }) => {
   return (
     <div className="card">
       <div className="photo">
-        <img src={product.image} alt={product.name} />
+        <img src={`${process.env.PUBLIC_URL}${product.image}`} alt={product.name} />
         <div
           className={`icon_heart ${isLiked ? "liked" : ""}`}
           onClick={toggleLike}

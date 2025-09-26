@@ -26,7 +26,7 @@ const CartItem = ({ item, onRemove, onCountChange }) => {
 
   return (
     <div className="cart-item">
-      <img src={item.image} alt={item.name} />
+      <img src={`${process.env.PUBLIC_URL}${item.image}`} alt={item.name} />
       <div className="elements_price">
         <div className="info_counter">
           <div className="info">
