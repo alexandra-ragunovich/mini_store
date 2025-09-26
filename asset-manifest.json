@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mini_store/static/css/main.9a409ee6.css",
+    "main.js": "/mini_store/static/js/main.97742984.js",
+    "static/media/logo.svg": "/mini_store/static/media/logo.8eae5e1bfaa58031479ca76b0d6f380d.svg",
+    "static/media/Viber.svg": "/mini_store/static/media/Viber.1dff9a33308e2eb0109db1ddc5979c33.svg",
+    "static/media/bag.svg": "/mini_store/static/media/bag.3142041af83ed042100eed19693bcc99.svg",
+    "static/media/house-2.svg": "/mini_store/static/media/house-2.1c8277f645f92b9037414528bfc49596.svg",
+    "static/media/Telegram.svg": "/mini_store/static/media/Telegram.0826e7a99c555a64fc47984008dbf69d.svg",
+    "static/media/close.svg": "/mini_store/static/media/close.0ae04bb29a7578a539ca6c7d20cf6758.svg",
+    "static/media/small_close.svg": "/mini_store/static/media/small_close.e79210e686c0b664e07f816e8adc14cd.svg",
+    "static/media/menu_icons.svg": "/mini_store/static/media/menu_icons.2ffab484541498e489487b76ca37d51b.svg",
+    "static/media/search-normal.svg": "/mini_store/static/media/search-normal.6da3deaa376757e6bfa6b95e8f56ee3e.svg",
+    "static/media/person.svg": "/mini_store/static/media/person.d80e75cc5a1a0677740c9290b08a0581.svg",
+    "static/media/heart.svg": "/mini_store/static/media/heart.ff38575b7a57020c179e5308f192daaa.svg",
+    "static/media/arrow-small.svg": "/mini_store/static/media/arrow-small.ca3c838db0a4c9425bbdcba51ae9c285.svg",
+    "static/media/heart_card.svg": "/mini_store/static/media/heart_card.8e88cdb796983d664b51fba4f1d13141.svg",
+    "static/media/add.svg": "/mini_store/static/media/add.e84711274b457fa0a17551d293e84afa.svg",
+    "index.html": "/mini_store/index.html",
+    "static/media/arrow-right.svg": "/mini_store/static/media/arrow-right.9e7a942ffcd963bd35211586b5c0010e.svg",
+    "static/media/minus.svg": "/mini_store/static/media/minus.200194d35b0fd489a8873b921d7d1363.svg",
+    "static/media/point.svg": "/mini_store/static/media/point.10d270b2abab11c26098a552b566f18a.svg",
+    "main.9a409ee6.css.map": "/mini_store/static/css/main.9a409ee6.css.map",
+    "main.97742984.js.map": "/mini_store/static/js/main.97742984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a409ee6.css",
+    "static/js/main.97742984.js"
+  ]
+}
