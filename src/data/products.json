@@ -1,0 +1,85 @@
+
+[
+    {
+      "id": 1,
+      "name": "Заслонка дроссельная Ford Mondeo 4",
+      "characteristics": "Характеристика 1",
+      "price": 100,
+      "other_currency": 100,
+      "vin":"WBAPD52040WC92486",
+      "year":2017,
+      "image": "../assets/img/image2.png"
+    },
+    {
+      "id": 2,
+      "name": "Товар 2",
+      "characteristics": "Характеристика 2",
+      "price": 200,
+      "other_currency": 100,
+      "vin":"WBAPD52040WC92486",
+      "year":2017,
+      "image": "../assets/img/image2.png"
+    }
+    ,
+    {
+      "id": 3,
+      "name": "Товар 2",
+      "characteristics": "Характеристика 2",
+      "price": 200,
+      "other_currency": 100,
+      "vin":"WBAPD52040WC92486",
+      "year":2017,
+      "image": "../assets/img/image2.png"
+    },
+    {
+      "id": 4,
+      "name": "Товар 2",
+      "characteristics": "Характеристика 2",
+      "price": 200,
+      "other_currency": 100,
+      "vin":"WBAPD52040WC92486",
+      "year":2017,
+      "image": "../assets/img/image2.png"
+    },
+    {
+      "id": 5,
+      "name": "Товар 2",
+      "characteristics": "Характеристика 2",
+      "price": 200,
+      "other_currency": 100,
+      "vin":"WBAPD52040WC92486",
+      "year":2017,
+      "image": "../assets/img/image2.png"
+    },
+    {
+      "id": 6,
+      "name": "Товар 2",
+      "characteristics": "Характеристика 2",
+      "price": 200,
+      "other_currency": 100,
+      "vin":"WBAPD52040WC92486",
+      "year":2017,
+      "image": "../assets/img/image2.png"
+    },
+    {
+      "id": 7,
+      "name": "Товар 2",
+      "characteristics": "Характеристика 2",
+      "price": 200,
+      "other_currency": 100,
+      "vin":"WBAPD52040WC92486",
+      "year":2017,
+      "image": "../assets/img/image2.png"
+    },
+    {
+      "id": 8,
+      "name": "Товар 2",
+      "characteristics": "Характеристика 2",
+      "price": 200,
+      "other_currency": 100,
+      "vin":"WBAPD52040WC92486",
+      "year":2017,
+      "image": "../assets/img/image2.png"
+    }
+  
+  ]
