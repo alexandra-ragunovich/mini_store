@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mini_store/static/css/main.9a409ee6.css",
-    "main.js": "/mini_store/static/js/main.bdac68e1.js",
+    "main.js": "/mini_store/static/js/main.d56e3961.js",
     "static/media/logo.svg": "/mini_store/static/media/logo.8eae5e1bfaa58031479ca76b0d6f380d.svg",
     "static/media/Viber.svg": "/mini_store/static/media/Viber.1dff9a33308e2eb0109db1ddc5979c33.svg",
     "static/media/bag.svg": "/mini_store/static/media/bag.3142041af83ed042100eed19693bcc99.svg",
@@ -19,12 +19,12 @@
     "index.html": "/mini_store/index.html",
     "static/media/arrow-right.svg": "/mini_store/static/media/arrow-right.9e7a942ffcd963bd35211586b5c0010e.svg",
     "static/media/minus.svg": "/mini_store/static/media/minus.200194d35b0fd489a8873b921d7d1363.svg",
-    "static/media/point.svg": "/mini_store/static/media/point.10d270b2abab11c26098a552b566f18a.svg",
+    "static/media/point.svg": "/mini_store/static/media/point.2c1fb76cb135b85eed998fa4e0ab5da7.svg",
     "main.9a409ee6.css.map": "/mini_store/static/css/main.9a409ee6.css.map",
-    "main.bdac68e1.js.map": "/mini_store/static/js/main.bdac68e1.js.map"
+    "main.d56e3961.js.map": "/mini_store/static/js/main.d56e3961.js.map"
   },
   "entrypoints": [
     "static/css/main.9a409ee6.css",
-    "static/js/main.bdac68e1.js"
+    "static/js/main.d56e3961.js"
   ]
 }
